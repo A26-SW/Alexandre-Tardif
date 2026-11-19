@@ -9,6 +9,11 @@ npm run dev
 Finallement, pour visualiser ce squelette de projet, aller a l'addresse donner par le compilateur React Vite, generallement la suivante:
 http://localhost:5173/
 
+## Github Repo
+
+Le github pour se projet:
+https://github.com/A26-SW/Alexandre-Tardif/tree/main/mes-projets
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
