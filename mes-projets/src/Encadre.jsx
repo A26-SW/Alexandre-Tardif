@@ -1,3 +1,7 @@
 export function Encadre({ children }) {
-  return <>{children}</>;
+  return (
+    <>
+      <div className="encadre">{children}</div>
+    </>
+  );
 }

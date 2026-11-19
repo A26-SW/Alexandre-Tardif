@@ -1,0 +1,10 @@
+.carte {
+  border: 3px solid #ccc;
+  border-radius: 8px;
+  padding: 1%;
+  text-align: left;
+}
+
+.title {
+  text-align: center;
+}

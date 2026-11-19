@@ -1,3 +1,14 @@
+# Installation
+
+Por faire l'instatallation, faire la commande suivante:
+npm install
+
+Puis, pour demarrer l'application, utiliser la commande suivante:
+npm run dev
+
+Finallement, pour visualiser ce squelette de projet, aller a l'addresse donner par le compilateur React Vite, generallement la suivante:
+http://localhost:5173/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

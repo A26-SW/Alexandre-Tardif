@@ -12,7 +12,7 @@ import { Encadre } from "./Encadre";
 export default function App() {
   return (
     <>
-      <div>
+      <div className="App">
         <h1>Mes projets</h1>
         <Encadre>
           <CarteProjet
